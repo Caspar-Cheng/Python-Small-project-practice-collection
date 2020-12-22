@@ -23,3 +23,9 @@ Treasure island game:
 
 
 ![image](https://user-images.githubusercontent.com/52498280/102879621-c3291f00-4495-11eb-9d7b-8662a5c251cb.png)
+
+
+Tip calculator:
+
+
+![image](https://user-images.githubusercontent.com/52498280/102879878-37fc5900-4496-11eb-939f-2a8cdbae43c9.png)
