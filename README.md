@@ -35,3 +35,9 @@ Caesar cipher game:
 
 
 ![WechatIMG32](https://user-images.githubusercontent.com/52498280/103046171-03da8280-45d3-11eb-9699-610b1d46a33e.png)
+
+
+Who is the winner of bid?:
+
+
+<img width="681" alt="Screen Shot 2020-12-24 at 3 59 39 pm" src="https://user-images.githubusercontent.com/52498280/103108289-4747f600-4692-11eb-82b6-d89fed111115.png">
