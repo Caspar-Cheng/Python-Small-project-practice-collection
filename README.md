@@ -49,3 +49,8 @@ Calculator:
 <img width="954" alt="Screen Shot 2020-12-27 at 3 40 22 pm" src="https://user-images.githubusercontent.com/52498280/103164681-187c7c00-485a-11eb-8f04-2d5984ebadf6.png">
 
 
+Blackjack game: 
+
+
+<img width="703" alt="Screen Shot 2020-12-28 at 9 10 27 am" src="https://user-images.githubusercontent.com/52498280/103181452-dc462b80-48ec-11eb-9950-e19c46602318.png">
+<img width="581" alt="Screen Shot 2020-12-28 at 9 10 48 am" src="https://user-images.githubusercontent.com/52498280/103181454-dd775880-48ec-11eb-9709-ccaeb677576d.png">
