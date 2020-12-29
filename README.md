@@ -54,3 +54,12 @@ Blackjack game:
 
 <img width="703" alt="Screen Shot 2020-12-28 at 9 10 27 am" src="https://user-images.githubusercontent.com/52498280/103181452-dc462b80-48ec-11eb-9950-e19c46602318.png">
 <img width="581" alt="Screen Shot 2020-12-28 at 9 10 48 am" src="https://user-images.githubusercontent.com/52498280/103181454-dd775880-48ec-11eb-9709-ccaeb677576d.png">
+
+
+GuessIT - guess number game:
+
+
+<img width="628" alt="Screen Shot 2020-12-28 at 3 34 50 pm" src="https://user-images.githubusercontent.com/52498280/103252808-20f3c480-49ca-11eb-9804-9a58b58c3574.png">
+<img width="553" alt="Screen Shot 2020-12-28 at 3 35 23 pm" src="https://user-images.githubusercontent.com/52498280/103252810-218c5b00-49ca-11eb-975c-afe91f95abe2.png">
+
+
