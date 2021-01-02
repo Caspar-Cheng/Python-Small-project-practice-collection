@@ -63,3 +63,10 @@ GuessIT - guess number game:
 <img width="553" alt="Screen Shot 2020-12-28 at 3 35 23 pm" src="https://user-images.githubusercontent.com/52498280/103252810-218c5b00-49ca-11eb-975c-afe91f95abe2.png">
 
 
+Higher lower game:
+
+
+<img width="706" alt="Screen Shot 2021-01-02 at 8 15 59 pm" src="https://user-images.githubusercontent.com/52498280/103455316-c8108d00-4d37-11eb-92d9-c12b8c8a1259.png">
+<img width="504" alt="Screen Shot 2021-01-02 at 8 15 04 pm" src="https://user-images.githubusercontent.com/52498280/103455317-c8a92380-4d37-11eb-8bdd-4c8f565b6983.png">
+
+
