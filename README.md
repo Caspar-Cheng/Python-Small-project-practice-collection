@@ -1,4 +1,4 @@
-# Python-Small-project-practice-collection
+# Python-junior-projects-practice-collection
 
 1.Hangman-game:
 
