@@ -1,6 +1,6 @@
 # Python-junior-projects-practice-collection
 
-This collection mainly includes the projects about basic concepts such as loop and operators, it's all about procedural programming based to practice on basic usage of Python concepts. 
+This collection mainly includes the projects about basic concepts such as loop and operators, it's all about procedural programming based, aim to practice on basic usage of Python concepts. 
 
 1.Hangman-game:
 
